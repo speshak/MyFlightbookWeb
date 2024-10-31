@@ -244,8 +244,9 @@
       <HintPath>..\packages\System.Composition.TypedParts.5.0.1\lib\net461\System.Composition.TypedParts.dll</HintPath>
     </Reference>
     <Reference Include="System.Configuration.Install" />
-    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.Drawing.Common.5.0.2\lib\net461\System.Drawing.Common.dll</HintPath>
+    <Reference Include="System.Drawing.Common, Version=4.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+      <HintPath>..\packages\System.Drawing.Common.5.0.3\lib\net461\System.Drawing.Common.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System.Drawing.Design" />
     <Reference Include="System.IdentityModel" />
